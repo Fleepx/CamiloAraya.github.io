@@ -8,7 +8,7 @@ body {
   background-image: url(./assets/Santiago-Chile-Skyline.jpeg);
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: left;
+  background-position: center;
   text-align: end; 
   color: black;
   height: 100vh; /* Establece la altura al 100% de la altura de la ventana del navegador */
